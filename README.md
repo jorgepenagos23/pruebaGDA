@@ -1,5 +1,5 @@
 # pruebaGDA jr full stack
-prueba full stack laravel php  con Vue  Vuetify Rest api 
+prueba full stack laravel php  con Vue  Vuetify Rest api    31 agosto 2024 2:51 pm hora Mexico 
 
 ### 3. **Contenido Detallado**
 
